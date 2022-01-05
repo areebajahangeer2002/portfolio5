@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Prompt:wght@500&family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Prompt:wght@500&family=Roboto:wght@900&display=swap');
 body{
     margin: 0 !important;
     padding: 0;
+    font-family: 'Montserrat Alternates', sans-serif;
 }
       /* navbar */
 nav{
@@ -17,18 +19,17 @@ nav{
 
 .first-logo{
     color: white;
-    font-family: roboto;
     font-weight: bold;
     font-size: 12px;
 }
 .logo-text1{
-    margin-left: 130px;
-    margin-top: 23px;
+    font-family: roboto;
     font-size: medium;
+    margin: 23px 0 0 130px;
 }
 .logo-text2{
-    margin-left: 460px;
-    margin-top: -33px;
+    margin: -33px 0 0 460px;
+    font-family: roboto;
     font-size: medium;
 }
 .introduction{
@@ -57,11 +58,10 @@ nav{
          /* text */
 
 .text{
-    margin-left: 100px;
-    margin-top: -480px;
+    margin: -480px 0 0 100px;
 }
 .text-one{
-    font-family: roboto;
+   font-family: roboto;
     font-size: 16px;
     font-weight: normal;
     color: rgb(221, 29, 61);
@@ -77,8 +77,7 @@ nav{
       /* social-icons */
 
 .social-icons{
-    margin-left: 455px;
-    margin-top: 25px;
+    margin: 25px 0 0 455px;
     width: 100%;
     color: white;
     height: 100px;
@@ -114,14 +113,12 @@ nav{
 .six{
     color: white;
     width: 100%;
-    margin-top: 26px;
-    margin-left: -178px;
+    margin: 26px 0 0 -178px;
 }
 .first{
     color: white;
     width: 100%;
-    margin-left: -509px;
-    margin-top: 23px;
+    margin: 23px 0 0 -508;
 }
            /* buttons */
 .second-button{
@@ -131,7 +128,6 @@ nav{
     width: 195px;
     height: 53px;
     border-radius: 4px;
-    font-family: 'Roboto';
     font-size: 15px;
     font-weight: bold;
     margin-left: 100px;
@@ -143,22 +139,19 @@ nav{
     width: 195px;
     height: 53px;
     border-radius: 4px;
-    font-family: 'Roboto';
     font-size: 15px;
     font-weight: bold;
 }
       /* second page images */
 
 .third-img{
-    margin-top: 244px;
-    margin-left: 90px;
+    margin: 244px 0 0 90px;
     display: flex;
     width: 350px;
     height: 222px;
 } 
 .forth-img{
-    margin-top: -364px;
-    margin-left: 480px;
+    margin: -364px 0 0 480px;
     display: flex;
     width: 350px;
     height: 222px;
@@ -178,12 +171,12 @@ nav{
    
 }
  .image-text{
-    font-family: roboto;
+   
      display: flex;
  } 
  .paraghraph-text{
      color: rgba(128, 128, 128, 0.89);
-     font-family: roboto;
+    
      display: flex;
  }
  .second-text{
@@ -191,32 +184,134 @@ nav{
     font-family: roboto;
  }
  .secondparaghraph-text{
-     font-family: roboto;
+    
      display: flex;
      color: rgba(128, 128, 128, 0.89);
  }  
  .border-text{
-     font-family: roboto;
-    margin-left: 940px;
-    font-size: 42px;
-    margin-top: -305px;
-}
+     margin: -305px 0 0 940px;
+     font-size: 42px;
+ }
 .border-parghraphtext{
-    font-family: roboto;
+    font-family: 'Montserrat Alternates', sans-serif;
 
 }
 .second-section{
-    background-color: rgb(122 149 159 / 25%);
-}
+    margin-top: 80px;
+    background-color: rgb(236 245 249 / 26%);}
  .divs{
+
     display: flex;
+    padding-top: 115px;
  }
  .first-div{
-     font-family: roboto;
+     
+     margin-left: 94px;
  }
   .first-img{
-    margin-top: 244px;
-    margin-left: 90px;
-    width: 350px;
-    height: 222px;
-  }    
+    width: 355px;
+    height: 244px;
+  } 
+  .second-img{
+    width: 355px;
+    height: 244px;
+  }
+  .first-title{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.first-parghraph{
+    width: 284px;
+    font-weight: 900;
+    color: rgba(128, 128, 128, 0.89);
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.second-div{
+    margin-left: 49px;
+   
+}
+.second-title{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.second-parghraph{
+    width: 284px;
+    font-weight: 900;
+    color: rgba(128, 128, 128, 0.89);
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+ .third-div{
+    margin-left: 46px;
+    width: 355px;
+    height: 388px;
+ 
+   border: 4px solid rgb(221, 29, 61);
+   background-color: white;
+}
+.third-title{
+    font-family: roboto;
+    margin-left: 40px;
+    font-size: 40px;
+}
+.third-parghraph{
+    margin: 40px 0 0 40px;
+    font-size: large;
+    color: rgba(128, 128, 128, 0.89);
+}
+.four-text{
+    font-weight: 600;
+    font-size: 14px;
+    color: rgb(51 47 47 / 72%);
+    margin: 40px 0 0 40px;
+}
+hr{
+    margin: -7px 0 0 41px;
+    width: 100px;
+    height: 4px;
+    background-color: rgb(221, 29, 61);
+    border: none;
+}
+.fa{
+    margin-left: 5px;
+}
+       /* sectionthird */
+     
+ .thirdsection-image{
+    height: 600px;
+    width: 670px;
+   margin-left: 100px;
+ } 
+ .thirdsection-div{
+     display: flex;
+     margin-top: 200px;
+   
+ }
+ .sectionthird-text{
+    background-color: rgba(255, 255, 255, 0.856);
+    opacity: 0.9;
+    height: 450px;
+   margin: 150px 0 0 -122px;
+ } 
+ 
+ .title-text{
+     font-family: roboto;
+     font-weight: bolder;
+     font-size: 48px;
+    margin: 38px 0 0 53px;
+ }
+ .sectionthird-parghraph{
+     font-family: 'Montserrat Alternates', sans-serif;
+     color: rgb(51 47 47 / 72%);
+     width: 419px;
+     margin: 33px 0 0 53px;
+ }
+ .sectionthird-button{
+    background-color: rgb(221, 29, 61);
+    color: #FFFFFF;
+    border: none;
+    width: 195px;
+    height: 53px;
+    border-radius: 4px;
+    margin: 63px 0 0 53px;
+    font-size: 15px;
+    font-weight: bold;
+   
+ }  

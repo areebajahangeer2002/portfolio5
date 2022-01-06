@@ -28,7 +28,7 @@ nav{
     margin: 23px 0 0 130px;
 }
 .logo-text2{
-    margin: -33px 0 0 460px;
+    margin: -18px 0 0 460px;
     font-family: roboto;
     font-size: medium;
 }
@@ -113,12 +113,12 @@ nav{
 .six{
     color: white;
     width: 100%;
-    margin: 26px 0 0 -178px;
+    margin: 25px 0 0 -178px;
 }
 .first{
     color: white;
     width: 100%;
-    margin: 23px 0 0 -508;
+    margin: 24px 0 0 -511px;
 }
            /* buttons */
 .second-button{
@@ -315,3 +315,63 @@ hr{
     font-weight: bold;
    
  }  
+         /* fourth-section */
+
+.forth-sectiontitle{
+    margin: 170px 0 0 500px;
+}        
+.forth-title{
+    font-family: roboto;
+    font-size: 63px;
+    font-weight: bolder;
+    color: rgba(15, 15, 15, 0.918);
+}
+.forthsection-divs{
+    font-family:  'Montserrat Alternates', sans-serif;
+    display: flex;
+   margin-top: 250px;
+   justify-content: space-evenly;
+}
+.loremtext-one{
+    width: 237px;
+    color: #241919f5;
+    padding: 20px;
+   
+}
+.texttext{
+    font-size: 21px;
+    font-weight: bolder;
+    padding: 20px;
+}
+.forthone-div{
+    background-color: rgba(236, 241, 243, 0.137);
+height: 400px;
+width: 350px;
+text-align: center;
+}
+.iconicon{
+margin:auto;
+padding-top:120px;
+font-size:60px
+}
+.para{
+    padding: 50px;
+    padding-left: 50px;
+}
+.areebaa{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 115px;
+}
+.more-services{
+    border: 2px solid #e90a48b0;
+    margin-left: 570px;
+    margin-top: 100px;
+    background-color: rgb(233 226 226 / 2%);
+    color: #e90a48d1;
+    width: 195px;
+    height: 56px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: bold;
+}   

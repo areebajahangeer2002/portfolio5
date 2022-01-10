@@ -344,7 +344,7 @@ hr{
     padding: 20px;
 }
 .forthone-div{
-    background-color: rgba(236, 241, 243, 0.137);
+    background-color: rgb(236 241 243 / 30%);
 height: 400px;
 width: 350px;
 text-align: center;
@@ -375,3 +375,203 @@ font-size:60px
     font-size: 13px;
     font-weight: bold;
 }   
+         /* fifthsection */
+
+     .margin{
+         height: 600px;
+         margin-top: 165px;
+         display: flex;
+     }
+     
+ .fifth-section{
+    background-color: rgba(226, 236, 240, 0.363);
+ }        
+ .sectionfifth-title{
+     font-family: roboto;
+     font-size: 42px;
+     font-weight: bolder;
+ }
+ .fifthsection-paraghraph{
+     color: gray;
+     width: 335px;
+ }
+ .fifthsection-button{
+    border: 2px solid #e90a48b0;
+    background-color: rgb(233 226 226 / 2%);
+    color: #e90a48d1;
+    width: 145px;
+    height: 46px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 35px;
+ }
+.div-margin{
+    padding-top: 162px;
+    margin-left: 110px;
+}
+.fifthsection-images{
+    padding-top: 121px;
+    margin-left: 285px;
+}
+.fifth-sectionimg2{
+    width: 251px;
+}
+.fithsection-img1{
+    width: 251px;
+    margin-left: 11px;
+}
+          /* section6th */
+   .section-six{
+       margin-top: 230px;
+       text-align: center;
+   }
+   .section6-paraghraph{
+   width: 745px;
+    margin-left: 339px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #000000b3;
+    margin-top: 36px; 
+   }  
+   .stars{
+       color:  rgb(255 129 0);
+       margin-top: 45px;
+   }
+   .last-text{
+       display: flex;
+       margin-left: 508px;
+   } 
+.section6-1sttest{
+    font-size: 20px;
+    font-weight: bold;
+} 
+.section6-2ndtext{
+    font-size: 20px;
+    color: #00000094;
+    font-weight: 600;
+}
+       /* section7th */
+.hahaha{
+    background-color: rgb(236 241 243 / 30%);
+}
+.section-seven{
+    margin-top: 162px;
+}
+.section7th-images{
+    display: flex;
+    
+    margin-top: 75px;
+}
+.seventh-title{
+    font-size: 60px;
+    font-family: roboto;
+    text-align: center;
+}
+.section7th-img1{
+    margin-left: 25px;
+    width: 390px;
+}
+.section7th-img2{
+    margin-left: 28px;
+    width: 390px;
+}
+.section7th-img3{
+    margin-left: 25px;
+    width: 390px;
+}
+.image-paraghraph11{
+font-size: 23px;
+    font-weight: bold;
+    width: 295px;
+    margin-left: 29px;
+}
+.image-title11{
+    color: #e90a48d1;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 29px;
+}
+.nmbrs11{
+    font-size: 15px;
+    font-weight: bolder;
+    color: rgba(128, 128, 128, 0.829);
+    margin-left: 29px;
+}
+       /* section8888 */
+.section-eight{
+    background-color: rgb(10, 10, 88);
+    display: flex;
+    height: 425px;
+    margin-top: 240px;
+} 
+.section8-title{
+    margin-left: 20px;
+    margin-top: 70px;
+}
+.title-8th{
+    font-family: 'Roboto';
+    color: white;
+    font-size: 43px;
+    width: 313px;
+}
+.section8-para{
+    color: white;
+    width: 460px;
+    font-size: 18px;
+    font-weight: bold;
+}  
+.Servicess{
+    text-align: inherit;
+    border: 2px solid rgba(255, 255, 255, 0.425);
+    background-color: rgb(233 226 226 / 2%);
+    color: #fbf6f659;
+    width: 440px;
+    height: 57px;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 38px;
+   
+}
+.name{
+    text-align: inherit;
+    border: 2px solid rgba(255, 255, 255, 0.425);
+    background-color: rgb(233 226 226 / 2%);
+    color: #FFFFFF;
+    width: 318px;
+    height: 57px;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 35px;
+}
+.phone{
+    text-align: inherit;
+    border: 2px solid rgba(255, 255, 255, 0.425);
+    background-color: rgb(233 226 226 / 2%);
+    color: white;
+    width: 318px;
+    height: 57px;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: bold;
+   
+    margin-left: 32px;
+}
+.send{
+    background-color: rgb(221, 29, 61);
+    color: #FFFFFF;
+    border: none;
+    width: 195px;
+    height: 53px;
+    border-radius: 4px;
+    margin: 63px 0 0 53px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.information{
+    margin-left: 64px;
+    margin-top: 58px;
+
+}

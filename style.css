@@ -355,9 +355,13 @@ padding-top:120px;
 font-size:60px
 }
 .para{
-    padding: 50px;
-    padding-left: 50px;
+    width: 242px;
+    margin-left: 53px;
+    color: #808080ad;
+    font-weight: 800;
+    margin-top: -12px;
 }
+
 .areebaa{
     display: flex;
     justify-content: space-evenly;
@@ -506,7 +510,7 @@ font-size: 23px;
     margin-top: 240px;
 } 
 .section8-title{
-    margin-left: 20px;
+    margin-left: 90px;
     margin-top: 70px;
 }
 .title-8th{
@@ -521,57 +525,129 @@ font-size: 23px;
     font-size: 18px;
     font-weight: bold;
 }  
-.Servicess{
+.input3{
+    margin-left: -45px;
     text-align: inherit;
     border: 2px solid rgba(255, 255, 255, 0.425);
     background-color: rgb(233 226 226 / 2%);
     color: #fbf6f659;
     width: 440px;
-    height: 57px;
+    height: 54px;
     border-radius: 4px;
     font-size: 15px;
     font-weight: bold;
-    padding-top: 38px;
-   
+    margin-top: 30px;
 }
-.name{
+.input1{
+    margin-left: -46px;
     text-align: inherit;
     border: 2px solid rgba(255, 255, 255, 0.425);
     background-color: rgb(233 226 226 / 2%);
     color: #FFFFFF;
     width: 318px;
-    height: 57px;
+    height: 54px;
     border-radius: 4px;
     font-size: 15px;
     font-weight: bold;
     margin-top: 35px;
 }
-.phone{
+.input2{
     text-align: inherit;
     border: 2px solid rgba(255, 255, 255, 0.425);
     background-color: rgb(233 226 226 / 2%);
     color: white;
     width: 318px;
-    height: 57px;
+    height: 54px;
     border-radius: 4px;
     font-size: 15px;
     font-weight: bold;
    
     margin-left: 32px;
 }
-.send{
+.input4{
     background-color: rgb(221, 29, 61);
     color: #FFFFFF;
     border: none;
-    width: 195px;
-    height: 53px;
+    width: 203px;
+    height: 57px;
     border-radius: 4px;
-    margin: 63px 0 0 53px;
+    margin-left: 47px;
     font-size: 15px;
     font-weight: bold;
+    text-align: center;
+}
+.fa-angle-down{
+    color: #ffffff80;
+    margin-left: -29px;
 }
 .information{
     margin-left: 64px;
     margin-top: 58px;
-
 }
+
+        /* section9th */
+
+ .border-icons9thsection{
+   
+    color: black;
+    height: 100px;
+  
+ }
+ .ninth-logo{
+    width: 189px;
+ }
+ .texttexttext{
+     display: flex;
+     margin-top: -307px;
+    margin-left: 450px
+ }
+ .sctn9-para{
+    width: 268px;
+    font-size: 19px;
+    font-weight: 300;
+    color: #808080ab;
+ } 
+ .section-9thicons{
+     display: flex;
+     color: black;
+     width: 165px;
+    justify-content: space-evenly;
+    margin-top: 51px;
+    margin-left: -22px;
+
+ } 
+ .ninesection-margin{
+    padding-top: 130px;
+    margin-left: 74px;
+ } 
+ .section-ninth{
+    background-color: rgb(143 199 221 / 15%);
+    height: 500px;
+}
+.display-flex3{
+    margin-left: 112px
+}
+.display-flex2{
+    margin-left: 91px
+}
+.company{
+    color: rgb(10, 10, 88);
+}
+.lines{
+    color: rgba(128, 128, 128, 0.849);
+}
+.second-hr{
+    margin-left: -10px;
+    margin-top: 55px;
+    background-color: #80808025;
+    width: 1255px;
+    height: 2px;
+}
+.copyright{
+    text-align: center;
+    font-size: 17px;
+    margin-top: 40px;
+}
+span{
+    color: red;
+}  
